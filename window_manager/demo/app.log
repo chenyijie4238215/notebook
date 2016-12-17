@@ -1,0 +1,8 @@
+Tue, 22 Nov 2016 15:24:51 ERROR logger.py[line:22] :: Traceback (most recent call last):
+  File "E:\notebook\window_manager\demo\QmlWindow.py", line 29, in closeEvent
+    self.clearPresenters()
+  File "E:\notebook\window_manager\demo\QmlWindow.py", line 54, in clearPresenters
+    p.onWindowExit()
+  File "E:\notebook\window_manager\demo\Presenter.py", line 35, in onWindowExit
+    self.window.unRegisterPresenter(self)
+AttributeError: 'NoneType' object has no attribute 'unRegisterPresenter'

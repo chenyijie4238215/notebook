@@ -1,0 +1,11 @@
+Fri, 18 Nov 2016 18:45:22 demo_logging_config.py[line:50] WARNING warning message
+Fri, 18 Nov 2016 18:45:22 demo_logging_config.py[line:51] ERROR error message
+Fri, 18 Nov 2016 18:45:22 demo_logging_config.py[line:52] CRITICAL critical message
+Sat, 19 Nov 2016 14:00:23 DEBUG message_handler_qt.py[line:12] :: 测试打印~~~~~~~~~~~~~~~~~~~
+Sat, 19 Nov 2016 14:00:27 DEBUG message_handler_qt.py[line:12] :: 测试打印~~~~~~~~~~~~~~~~~~~
+Sat, 19 Nov 2016 14:00:28 DEBUG message_handler_qt.py[line:12] :: 测试打印~~~~~~~~~~~~~~~~~~~
+Sat, 19 Nov 2016 14:09:58 DEBUG logger.py[line:12] :: 测试打印~~~~~~~~~~~~~~~~~~~
+Sat, 19 Nov 2016 14:09:59 DEBUG logger.py[line:12] :: 测试打印~~~~~~~~~~~~~~~~~~~
+Sat, 19 Nov 2016 14:10:00 DEBUG logger.py[line:12] :: 测试打印~~~~~~~~~~~~~~~~~~~
+Sat, 19 Nov 2016 14:10:01 DEBUG logger.py[line:12] :: 测试打印~~~~~~~~~~~~~~~~~~~
+Sat, 19 Nov 2016 14:10:02 DEBUG logger.py[line:12] :: 测试打印~~~~~~~~~~~~~~~~~~~

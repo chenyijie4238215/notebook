@@ -1,0 +1,5 @@
+1.创建qrc资源目录
+2.执行命令 pyrcc5 resource.qrc -compress 9 -o resource.py           //生成在python中的资源文件resource.py
+3.import resource
+5.':/filename'
+
